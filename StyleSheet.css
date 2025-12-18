@@ -1,0 +1,168 @@
+﻿body {
+    
+}
+#wrapper
+{
+	width:1350px;
+	
+	margin:0% auto;
+	
+}
+#header
+{
+	background-color:deeppink;
+	border-top:solid 2px WHITE;
+	border-BOTTOM:solid 2px WHITE;
+	border-right:solid 2px WHITE;
+	border-left:solid 2px WHITE;
+	font-size:25pt;
+	padding:5px;
+	color:#ccc;
+    height:70px;
+    border-radius:10px;
+    
+} 
+#menu
+{
+	
+	background-color:hotpink;
+    color:aqua;
+    height:40px;  
+    text-decoration:none;
+	border-radius:10px;
+	border-right:solid 2px WHITE;
+	border-left:solid 2px WHITE;
+    font-size:20px;
+    
+}
+#menu a:hover
+{
+    color:white;
+    font-size:25px;
+    border-radius:10px;
+    border-color:black;
+    background-color:orchid;
+    
+
+}
+#menu a
+{
+    text-decoration:none;
+    color:black;
+    background-color:mediumvioletred;
+}
+
+#content
+{
+	min-height:470px;
+	border-right:solid 2px WHITE;
+	border-left:solid 2px WHITE;
+  
+    
+    
+   
+}
+#footer
+{  
+	background-color:deeppink;
+	font-size:20pt;
+	padding:10px;
+	color:white;
+	text-align:right;
+	border-top:solid 2px WHITE;
+	border-BOTTOM:solid 2px WHITE;
+	border-right:solid 2px WHITE;
+	border-left:solid 2px WHITE;
+    border-radius:10px;
+}
+#logo
+{
+   text-align:left;
+  
+   height:5px;
+}
+#label
+{
+    text-align:center;
+    height:5px;
+   
+  
+}
+#h1
+{
+    text-align:right;
+   
+}
+#login
+{
+    background-image:repeating-linear-gradient(pink,pink,lightpink,deeppink);
+    width:300px;
+    border-radius:10px;
+}
+#contect
+{
+     background-image:repeating-linear-gradient(pink,pink,lightpink,deeppink);
+    width:400px;
+    border-radius:10px;
+    
+  
+}
+#home
+{
+   
+
+     background-image:repeating-linear-gradient(pink,pink,lightpink,deeppink);
+    width:400px;
+    border-radius:10px;
+    
+  
+}
+
+
+#new a:hover
+{
+    color:white;
+    font-size:30px;
+    border-radius:10px;
+    border-color:black;
+    background-image:repeating-linear-gradient(pink,pink,lightpink,deeppink);
+
+}
+#new a
+{
+    text-decoration:none;
+    color:black;
+    font-size:20px;
+  
+}
+#registers
+{
+   background-image:repeating-linear-gradient(pink,pink,lightpink,deeppink);
+    width:500px;
+    border-radius:10px;
+}
+#f2
+{
+    background-image:repeating-linear-gradient(pink,pink,lightpink,deeppink);
+    width:400px;
+    border-radius:10px;
+}
+#about1
+{
+    background-image:repeating-linear-gradient(pink,pink,lightpink,deeppink);
+    width:500px;
+    border-radius:10px;
+}
+#view_reg
+{
+    background-image:repeating-linear-gradient(pink,pink,lightpink,deeppink);
+    width:1000px;
+    border-radius:10px;
+}
+#blog
+{
+    background-image:repeating-linear-gradient(pink,pink,lightpink,deeppink);
+    width:500px;
+    border-radius:10px;
+}
+
